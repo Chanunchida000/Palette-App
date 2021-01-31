@@ -8,7 +8,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId 'th.ac.su.ict.chanunchida.palette'
+        applicationId 'th.ac.su.ict.chanchon.palette'
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1

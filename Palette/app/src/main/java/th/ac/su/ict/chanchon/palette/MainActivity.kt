@@ -1,4 +1,4 @@
-package th.ac.su.ict.chanunchida.palette
+package th.ac.su.ict.chanchon.palette
 
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity

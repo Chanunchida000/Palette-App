@@ -1,4 +1,4 @@
-package th.ac.su.ict.chanunchida.palette
+package th.ac.su.ict.chanchon.palette
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
